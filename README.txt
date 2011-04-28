@@ -4,5 +4,5 @@ makes use of the libtcod roguelike library, and the GLib general-purpose utility
 For API documentation, see the doxygen thing.
 TODO: doxygen thing
 
-To compile, use the makefile
-TODO: makefile
+To compile, use ./compile_lib.sh
+A proper makefile is pending.
