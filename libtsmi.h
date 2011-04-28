@@ -34,9 +34,6 @@
     easy to use in higher level languages is a priority.
 */
 
-/**
-    Coord struct literals.
-*/
 #define NORTH     { 0, -1}
 #define NORTHEAST { 1, -1}
 #define EAST      { 1,  0}
